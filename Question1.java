@@ -1,4 +1,4 @@
-import java.until.Scanner;
+import java.util.Scanner;
 
 class Question1 {
     public static void main(String[] args) {
@@ -9,7 +9,7 @@ class Question1 {
     
     name= scan.nextLine();
 
-    System.out.println("Hi," + name + "Nice to see you.")
+    System.out.println("Hi," + name + "Nice to see you.");
 
 
 

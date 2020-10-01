@@ -1,11 +1,18 @@
-/* Activity 1.2 - Question 3 */
-
 
 
 class Question3 {
     public static void main(String[] args) {
+    Scanner scan = new Scanner(System.in);
+    String name;
 
-        /* Write your code here */
+    System.out.println(" Hi there. What is your name?");
+    
+    name= scan.nextLine();
+    adjective=scan.nextLine();
+
+    System.out.println("Hi," + name + "Nice to see you.");
+
+       
 
     }
 }
