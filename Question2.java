@@ -12,7 +12,7 @@ class Question2 {
     name2=scan.nextLine();
     name3=scan.nextLine();
 
-    System.out.println(name1  + name2 + name3);
+    System.out.println(name1 "" + name2 + "" name3);
 
 
         
